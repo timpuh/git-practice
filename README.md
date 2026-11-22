@@ -3,6 +3,6 @@ Git practice repository
 
 ## about
 My step-by-step journey of learning Git.
-This is a continuation of [sysadmin-practice](https://github.com/timpuh/sysadmin-practice/edit/main/README.md) but with a deeper dive into Git
+This is a continuation of [sysadmin-practice](https://github.com/timpuh/sysadmin-practice/edit/main/README.md) but with a deeper dive into Git.
 
 ## progress 
